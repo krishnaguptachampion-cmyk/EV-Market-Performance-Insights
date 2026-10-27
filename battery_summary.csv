@@ -1,0 +1,6 @@
+battery_type,records,avg_range_km,avg_degradation_pct,avg_battery_kwh
+NMC,67673,324.34,14.03,78.25
+LFP,64036,324.15,10.13,78.32
+NCA,34099,325.04,14.04,77.91
+Sodium-Ion,20089,325.89,14.01,78.09
+Solid-State,14103,324.07,7.44,78.84

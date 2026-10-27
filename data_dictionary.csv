@@ -1,0 +1,38 @@
+column,dtype,missing_count,example_values
+vehicle_id,object,0,EV455665 | EV235248 | EV248532
+model_name,object,0,Drift-268 | Orion-619 | Drift-246
+manufacturer,object,0,VelocityWheels | CurrentMotors | DriveEV
+model_year,int64,0,2020 | 2024 | 2020
+manufacturing_country,object,0,France | India | USA
+market_region,object,0,North America | Europe | South Asia
+category,object,0,Electric Bus | Full-size SUV | Three-Wheeler
+battery_capacity_kwh,float64,0,368.12 | 88.19 | 10.44
+battery_type,object,0,Solid-State | NMC | NMC
+battery_cycle_life,float64,3786,2304.0 | 1329.0 | 2791.0
+battery_degradation_pct_5yr,float64,0,8.78 | 19.59 | 10.95
+range_km,float64,0,232.3 | 440.8 | 108.6
+efficiency_wh_per_km,float64,0,1584.56 | 200.05 | 96.11
+motor_power_kw,float64,0,247.6 | 229.1 | 9.5
+torque_nm,float64,0,1548.5 | 535.3 | 69.0
+num_motors,int64,0,1 | 2 | 1
+drivetrain,object,0,RWD | AWD | RWD
+top_speed_kmph,float64,0,84.4 | 185.3 | 55.5
+acceleration_0_100_sec,float64,0,21.71 | 6.93 | 13.23
+max_dc_charging_kw,float64,0,350.0 | 137.9 | 18.3
+charging_dc_fast_time_min,float64,0,45.4 | 21.2 | 19.8
+charging_ac_time_hr,float64,0,30.0 | 8.62 | 3.39
+num_charging_ports,int64,0,1 | 1 | 2
+num_seats,int64,0,29 | 7 | 4
+weight_kg,float64,0,3661.9 | 1396.3 | 610.7
+cargo_capacity_liters,float64,0,808.1 | 421.8 | 29.8
+price_usd,float64,0,311731.48 | 61076.11 | 7645.09
+insurance_cost_usd_yearly,float64,0,4919.07 | 2341.94 | 284.56
+warranty_years,int64,0,7 | 7 | 3
+resale_value_pct_3yr,float64,6103,47.59 | 41.65 | 65.86
+safety_rating_stars,int64,0,4 | 3 | 4
+autonomous_level,int64,0,5 | 1 | 2
+infotainment_screen_inch,float64,3102,14.8 | 14.5 | 4.2
+co2_saved_tons_per_year,float64,0,7.584 | 3.669 | 2.167
+annual_sales_units,float64,2028,2744.0 | 20885.0 | 2191.0
+customer_rating,float64,3977,4.65 | 3.46 | 3.88
+recommended_use_case,object,0,Public Transport | Family Daily Use | Urban Commute

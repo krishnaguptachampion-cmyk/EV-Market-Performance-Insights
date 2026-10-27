@@ -1,25 +1,37 @@
-# Electric Vehicle Market Performance & Insights
+# EV Market Performance & Insights
 
-A beginner-friendly, responsive EV analytics dashboard prototype built with HTML, CSS, and JavaScript.
+A complete starter project built using the supplied electric-vehicle market CSVs.
 
-## Features
-- Interactive year selector
-- Market growth trend chart
-- Vehicle category comparison chart
-- Manufacturer comparison table
-- Battery technology overview
-- Key analysis questions to investigate
+## Start here
+- **Dashboard:** open `index.html` in Chrome. The charts and data are embedded in the HTML; it does not need an internet connection or a local JSON server.
+- **Report:** read `PROJECT_REPORT.md` or `reports/PROJECT_REPORT.md`.
+- **Analysis script:** `analysis/analyze_ev_market.py`.
+- **Tableau instructions:** `TABLEAU_GUIDE.md`.
+- **Data:** `data/ev_market_train.csv` and `data/ev_market_test.csv`.
 
-## Important data note
-The values in this prototype are illustrative sample values used to demonstrate the dashboard layout and interactions. Replace them with figures from a verified dataset before presenting the dashboard as factual analysis.
+## Dataset facts
+- Training: 200,000 rows × 37 columns.
+- Test: 100,000 rows × 37 columns.
+- Average range: 324.5 km.
+- Average listed price: $64,921.
+- Average customer rating: 4.09/5.
+- Missing cells in training dataset: 18,996.
 
-## Run locally
-Open `index.html` in a modern web browser.
+## Run the Python analysis
+Install Python 3 and run:
+```bash
+pip install pandas
+python analysis/analyze_ev_market.py
+```
 
-## Publish with GitHub Pages
-1. Create a public repository named `EV-Market-Performance-Insights`.
-2. Upload `index.html` and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then click **Save**.
-6. Wait for GitHub Pages to publish. The public demo URL will be shown on the Pages settings screen.
+## Upload to GitHub and publish a demo
+1. Extract this ZIP.
+2. Create a public GitHub repository.
+3. Upload the contents of this folder (not the ZIP file itself). Keep `index.html` in the repository root.
+4. In GitHub, open **Settings → Pages**.
+5. Select **Deploy from a branch**, branch `main`, folder `/(root)`, and Save.
+6. After publishing, GitHub Pages shows a URL like `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`.
+7. Paste that URL into SkillWallet's **Demo Link** field. Paste `https://github.com/YOUR-USERNAME/REPOSITORY-NAME` into **GitHub Link**.
+
+## Submission note
+The HTML dashboard is a browser preview, not a native Tableau workbook. To submit an actual Tableau dashboard, follow `TABLEAU_GUIDE.md` and publish your workbook to Tableau Public. Do not claim the Tableau workbook has been published until you have done so.

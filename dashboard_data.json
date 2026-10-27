@@ -1,0 +1,367 @@
+{
+  "train_rows": 200000,
+  "test_rows": 100000,
+  "columns": 37,
+  "missing_cells": 18996,
+  "duplicate_rows": 1,
+  "avg_range": 324.536716,
+  "median_range": 337.9,
+  "avg_battery": 78.24191460000002,
+  "avg_efficiency": 250.38797505000002,
+  "avg_price": 64920.53272445,
+  "median_price": 42814.925,
+  "avg_rating": 4.08875494202211,
+  "avg_co2_saved": 3.6896425249999996,
+  "avg_degradation": 12.3138533,
+  "top_use_case": "Family Daily Use",
+  "top_battery": "NMC",
+  "top_region": "South Asia",
+  "category_stats": [
+    {
+      "category": "Two-Wheeler Scooter",
+      "vehicles": 19652,
+      "avg_range": 104.96,
+      "avg_price": 2555.17,
+      "avg_rating": 4.09,
+      "avg_battery": 3.35,
+      "avg_efficiency": 34.74
+    },
+    {
+      "category": "Sedan",
+      "vehicles": 17234,
+      "avg_range": 429.62,
+      "avg_price": 42489.47,
+      "avg_rating": 4.09,
+      "avg_battery": 61.94,
+      "avg_efficiency": 146.34
+    },
+    {
+      "category": "Hatchback",
+      "vehicles": 17142,
+      "avg_range": 279.7,
+      "avg_price": 23025.52,
+      "avg_rating": 4.09,
+      "avg_battery": 38.01,
+      "avg_efficiency": 139.81
+    },
+    {
+      "category": "Compact SUV",
+      "vehicles": 17137,
+      "avg_range": 369.37,
+      "avg_price": 36471.85,
+      "avg_rating": 4.09,
+      "avg_battery": 54.94,
+      "avg_efficiency": 151.1
+    },
+    {
+      "category": "Three-Wheeler",
+      "vehicles": 15056,
+      "avg_range": 130.27,
+      "avg_price": 5503.71,
+      "avg_rating": 4.09,
+      "avg_battery": 8.24,
+      "avg_efficiency": 67.41
+    },
+    {
+      "category": "Crossover",
+      "vehicles": 14924,
+      "avg_range": 395.1,
+      "avg_price": 41002.03,
+      "avg_rating": 4.08,
+      "avg_battery": 60.98,
+      "avg_efficiency": 156.76
+    },
+    {
+      "category": "Luxury Sedan",
+      "vehicles": 13023,
+      "avg_range": 550.64,
+      "avg_price": 90261.16,
+      "avg_rating": 4.09,
+      "avg_battery": 90.05,
+      "avg_efficiency": 165.77
+    },
+    {
+      "category": "Full-size SUV",
+      "vehicles": 12915,
+      "avg_range": 474.63,
+      "avg_price": 85054.2,
+      "avg_rating": 4.09,
+      "avg_battery": 105.04,
+      "avg_efficiency": 223.75
+    },
+    {
+      "category": "Micro City Car",
+      "vehicles": 12808,
+      "avg_range": 150.17,
+      "avg_price": 13009.04,
+      "avg_rating": 4.09,
+      "avg_battery": 20.99,
+      "avg_efficiency": 148.08
+    },
+    {
+      "category": "Pickup Truck",
+      "vehicles": 10785,
+      "avg_range": 390.67,
+      "avg_price": 68108.0,
+      "avg_rating": 4.1,
+      "avg_battery": 125.16,
+      "avg_efficiency": 329.34
+    },
+    {
+      "category": "Van / MPV",
+      "vehicles": 10763,
+      "avg_range": 319.57,
+      "avg_price": 47554.01,
+      "avg_rating": 4.09,
+      "avg_battery": 75.04,
+      "avg_efficiency": 239.87
+    },
+    {
+      "category": "Luxury SUV",
+      "vehicles": 10749,
+      "avg_range": 524.8,
+      "avg_price": 116294.66,
+      "avg_rating": 4.09,
+      "avg_battery": 115.11,
+      "avg_efficiency": 221.3
+    },
+    {
+      "category": "Electric Truck",
+      "vehicles": 10619,
+      "avg_range": 225.59,
+      "avg_price": 167748.88,
+      "avg_rating": 4.09,
+      "avg_battery": 225.06,
+      "avg_efficiency": 1049.25
+    },
+    {
+      "category": "Electric Bus",
+      "vehicles": 8618,
+      "avg_range": 269.76,
+      "avg_price": 274542.74,
+      "avg_rating": 4.08,
+      "avg_battery": 300.17,
+      "avg_efficiency": 1158.72
+    },
+    {
+      "category": "Sports Car",
+      "vehicles": 8575,
+      "avg_range": 375.47,
+      "avg_price": 163592.82,
+      "avg_rating": 4.09,
+      "avg_battery": 83.77,
+      "avg_efficiency": 227.06
+    }
+  ],
+  "region_stats": [
+    {
+      "market_region": "South Asia",
+      "vehicles": 28779,
+      "avg_range": 325.27,
+      "avg_price": 64713.2,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "Middle East",
+      "vehicles": 28748,
+      "avg_range": 323.42,
+      "avg_price": 64718.64,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "Asia Pacific",
+      "vehicles": 28615,
+      "avg_range": 324.13,
+      "avg_price": 65345.66,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "Africa",
+      "vehicles": 28570,
+      "avg_range": 325.8,
+      "avg_price": 64983.15,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "Latin America",
+      "vehicles": 28450,
+      "avg_range": 324.59,
+      "avg_price": 65281.76,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "North America",
+      "vehicles": 28423,
+      "avg_range": 324.64,
+      "avg_price": 64683.1,
+      "avg_rating": 4.09
+    },
+    {
+      "market_region": "Europe",
+      "vehicles": 28415,
+      "avg_range": 323.91,
+      "avg_price": 64719.54,
+      "avg_rating": 4.09
+    }
+  ],
+  "battery_stats": [
+    {
+      "battery_type": "NMC",
+      "vehicles": 67673,
+      "avg_range": 324.34,
+      "avg_degradation": 14.03
+    },
+    {
+      "battery_type": "LFP",
+      "vehicles": 64036,
+      "avg_range": 324.15,
+      "avg_degradation": 10.13
+    },
+    {
+      "battery_type": "NCA",
+      "vehicles": 34099,
+      "avg_range": 325.04,
+      "avg_degradation": 14.04
+    },
+    {
+      "battery_type": "Sodium-Ion",
+      "vehicles": 20089,
+      "avg_range": 325.89,
+      "avg_degradation": 14.01
+    },
+    {
+      "battery_type": "Solid-State",
+      "vehicles": 14103,
+      "avg_range": 324.07,
+      "avg_degradation": 7.44
+    }
+  ],
+  "use_stats": [
+    {
+      "use_case": "Family Daily Use",
+      "vehicles": 68729
+    },
+    {
+      "use_case": "Urban Commute",
+      "vehicles": 47516
+    },
+    {
+      "use_case": "Highway / Long-Distance",
+      "vehicles": 29522
+    },
+    {
+      "use_case": "Commercial Delivery",
+      "vehicles": 21404
+    },
+    {
+      "use_case": "Premium / Executive",
+      "vehicles": 15636
+    },
+    {
+      "use_case": "Public Transport",
+      "vehicles": 8618
+    },
+    {
+      "use_case": "Performance / Enthusiast",
+      "vehicles": 8575
+    }
+  ],
+  "manufacturer_stats": [
+    {
+      "manufacturer": "AmpereGroup",
+      "vehicles": 1080,
+      "avg_range": 323.58,
+      "avg_price": 63681.47,
+      "avg_rating": 4.08,
+      "sales": 7823.91
+    },
+    {
+      "manufacturer": "VoltWorks",
+      "vehicles": 1073,
+      "avg_range": 326.82,
+      "avg_price": 65059.75,
+      "avg_rating": 4.09,
+      "sales": 7925.28
+    },
+    {
+      "manufacturer": "AxleWheels",
+      "vehicles": 1069,
+      "avg_range": 332.76,
+      "avg_price": 64496.4,
+      "avg_rating": 4.11,
+      "sales": 7772.12
+    },
+    {
+      "manufacturer": "SparkDynamics",
+      "vehicles": 1068,
+      "avg_range": 319.39,
+      "avg_price": 64804.97,
+      "avg_rating": 4.11,
+      "sales": 7709.35
+    },
+    {
+      "manufacturer": "AmpereWorks",
+      "vehicles": 1067,
+      "avg_range": 325.45,
+      "avg_price": 67598.26,
+      "avg_rating": 4.09,
+      "sales": 8968.89
+    },
+    {
+      "manufacturer": "CurrentMobility",
+      "vehicles": 1067,
+      "avg_range": 319.25,
+      "avg_price": 61838.43,
+      "avg_rating": 4.07,
+      "sales": 7553.8
+    },
+    {
+      "manufacturer": "VelocityGroup",
+      "vehicles": 1065,
+      "avg_range": 321.77,
+      "avg_price": 62989.04,
+      "avg_rating": 4.07,
+      "sales": 8147.19
+    },
+    {
+      "manufacturer": "CircuitMobility",
+      "vehicles": 1064,
+      "avg_range": 323.35,
+      "avg_price": 66211.89,
+      "avg_rating": 4.09,
+      "sales": 7750.75
+    },
+    {
+      "manufacturer": "DynamoMobility",
+      "vehicles": 1064,
+      "avg_range": 327.07,
+      "avg_price": 63911.53,
+      "avg_rating": 4.11,
+      "sales": 7408.51
+    },
+    {
+      "manufacturer": "SurgeDynamics",
+      "vehicles": 1060,
+      "avg_range": 327.0,
+      "avg_price": 65985.0,
+      "avg_rating": 4.08,
+      "sales": 8378.21
+    },
+    {
+      "manufacturer": "AmpereDynamics",
+      "vehicles": 1060,
+      "avg_range": 321.19,
+      "avg_price": 62808.73,
+      "avg_rating": 4.1,
+      "sales": 8305.92
+    },
+    {
+      "manufacturer": "ElektraGroup",
+      "vehicles": 1058,
+      "avg_range": 331.16,
+      "avg_price": 66509.22,
+      "avg_rating": 4.11,
+      "sales": 7876.26
+    }
+  ]
+}
